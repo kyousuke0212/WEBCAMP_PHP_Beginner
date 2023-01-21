@@ -5,7 +5,7 @@ $a = 1 + 2;
 echo $a;
 echo "\n";
 
-echo $s , "\n";
+echo $a , "\n";
 
 echo "{$a} \n";
 
